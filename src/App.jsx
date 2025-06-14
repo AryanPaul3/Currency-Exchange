@@ -30,7 +30,7 @@ function App() {
 
   return (
         <div
-            className="bg-linear-to-bl from-yellow-900 to-yellow-950 w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat"
+            className="bg-linear-to-bl from-yellow-900 to-yellow-900 w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat"
             
         >
           
